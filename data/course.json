@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6ad82a17-ba8c-af63-b592-df6f2db65a3f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Experiencing Architecture Studio",
+  "course_description": "This course uses scale models to design environments that orchestrate contrasting material properties and conventional constructional systems to create places that foster specific ways of inhabiting space. It also demonstrates how architecture differs from other forms of design. Intended for students to test aptitude for architectural design and to experience an unfamiliar mode of thought, it's conducted in a studio format, with lectures on architectural theory and history, and structured for students with no previous experience in design.\n\nRequired of Architecture majors.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.101",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
